@@ -1,0 +1,11 @@
+Package: HVGR
+Type: Package
+Title: Compute the edges of the (H)orizontal (V)isibility (G)raph for a given series of values
+Version: 1.0
+Date: 2019-11-20
+Author: Nicolas Verschueren van Rees
+Maintainer: nverschueren <nv13699@my.bristol.ac.uk>
+Description: Compute the edges of the (H)orizontal (V)isibility (G)raph for a given series of values. Currently only the function hvgedges is supported
+License: What license is it under?
+Imports: Rcpp (>= 1.0.2)
+LinkingTo: Rcpp, RcppArmadillo
